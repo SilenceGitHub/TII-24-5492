@@ -1,0 +1,21 @@
+(a) Document ID: TII-24-5492
+(b) Document title: A Hybrid Neurodynamic Scheme for Bimanual Synchronized Tracking Control of Robotic Manipulators with Uncertain Kinematics
+(c) Document subject: Robotics & Control Systems
+(d) Keywords: Bimanual operation, dual robotic manipulators, hybrid neurodynamics, uncertain kinematics
+(e) Corresponding author:
+       Ning Tan
+       D104b, School of Management
+       No. 132, Waihuan East Road
+       Guangzhou Higher Education Mega Center
+       Guangzhou, 510006
+       China
+       tann5@mail.sysu.edu.cn
+       +86 15818896044
+       
+(f) Authors names and IEEE and IES memberships
+       Peng Yu, IEEE membership (no), IES membership (no)
+       Ning Tan, IEEE membership rank (SM), 2020, 92571004, IES membership (no)
+       Xiaoyi Gu, IEEE membership (no), IES membership (no)
+
+(g) Do you want to print some of your figures in color? (you will be asked to pay for this extra service)
+     No
